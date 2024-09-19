@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" appversion="7.1.4" hassounds="0" apprev="20938">
+  <panorama id="node1">
+    <input width="1632" leveltilesize="510" height="1632" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" longitude="" datetime="15/09/2024 17:32" author="" description="" nodeid="node1" title="IMG_20240915_173225_00_506.insp" customnodeid="" heading="0" source="" tags="MatheusTombini" info="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" border="1" borderradius="1" enabled="1" height="20" borderalpha="1" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-0.97" tilt="-5.53" target="0.0/0.0/117.0" skinid="ht_node" description="" title="IMG_20240915_173328_00_511.insp" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomoutpause="1" zoomin="0" softedge="0" zoomfov="40" blendtime="1" delay="none"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" hideabout="0" sensitivity="8" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" rubberband="0" lockedwheel="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="1632" leveltilesize="510" height="1632" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" longitude="" datetime="15/09/2024 17:33" author="" description="" nodeid="node2" title="IMG_20240915_173328_00_511.insp" customnodeid="" heading="0" source="" tags="MatheusTombini" info="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" border="1" borderradius="1" enabled="1" height="20" borderalpha="1" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-181.86" tilt="-6.54" target="161.0/0.0/108.2" skinid="ht_node" description="" title="IMG_20240915_173225_00_506.insp" url="{node1}"/>
+      <hotspot id="Point02" pan="-354.38" tilt="-5.94" target="-23.5/-7.0/126.6" skinid="ht_node" description="" title="IMG_20240915_173439_00_516.insp" url="{node3}"/>
+      <hotspot id="Point03" pan="-280.34" tilt="-1.18" target="-75.5/-4.2/117.0" skinid="ht_node" description="" title="IMG_20240915_173824_00_521.insp" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomoutpause="1" zoomin="0" softedge="0" zoomfov="40" blendtime="1" delay="none"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" hideabout="0" sensitivity="8" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" rubberband="0" lockedwheel="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="1632" leveltilesize="510" height="1632" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" longitude="" datetime="15/09/2024 17:34" author="" description="" nodeid="node3" title="IMG_20240915_173439_00_516.insp" customnodeid="" heading="0" source="" tags="MatheusTombini" info="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" border="1" borderradius="1" enabled="1" height="20" borderalpha="1" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-206.3" tilt="-2.86" target="178.0/0.0/100.0" skinid="ht_node" description="" title="IMG_20240915_173328_00_511.insp" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomoutpause="1" zoomin="0" softedge="0" zoomfov="40" blendtime="1" delay="none"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" hideabout="0" sensitivity="8" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" rubberband="0" lockedwheel="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="1632" leveltilesize="510" height="1632" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" longitude="" datetime="15/09/2024 17:38" author="" description="" nodeid="node4" title="IMG_20240915_173824_00_521.insp" customnodeid="" heading="0" source="" tags="MatheusTombini" info="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" border="1" borderradius="1" enabled="1" height="20" borderalpha="1" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-265.04" tilt="-1.36" target="-97.0/0.0/126.6" skinid="ht_node" description="" title="IMG_20240915_173328_00_511.insp" url="{node2}"/>
+      <hotspot id="Point02" pan="-154.77" tilt="-5.45" target="154.5/-5.2/108.2" skinid="ht_node" description="" title="IMG_20240915_181515_00_551.insp" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomoutpause="1" zoomin="0" softedge="0" zoomfov="40" blendtime="1" delay="none"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" hideabout="0" sensitivity="8" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" rubberband="0" lockedwheel="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="1632" leveltilesize="510" height="1632" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" longitude="" datetime="15/09/2024 18:15" author="" description="" nodeid="node7" title="IMG_20240915_181515_00_551.insp" customnodeid="" heading="0" source="" tags="MatheusTombini" info="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" border="1" borderradius="1" enabled="1" height="20" borderalpha="1" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-13.95" tilt="3.53" target="14.4/-1.1/126.6" skinid="ht_node" description="" title="IMG_20240915_173824_00_521.insp" url="{node4}"/>
+      <hotspot id="Point02" pan="-127.1" tilt="-2.69" target="-128.0/0.0/126.6" skinid="ht_node" description="" title="IMG_20240915_180752_00_536.insp" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomoutpause="1" zoomin="0" softedge="0" zoomfov="40" blendtime="1" delay="none"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" hideabout="0" sensitivity="8" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" rubberband="0" lockedwheel="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="1632" leveltilesize="510" height="1632" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" longitude="" datetime="15/09/2024 18:07" author="" description="" nodeid="node5" title="IMG_20240915_180752_00_536.insp" customnodeid="" heading="0" source="" tags="MatheusTombini" info="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" border="1" borderradius="1" enabled="1" height="20" borderalpha="1" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-159.86" tilt="-4.68" target="-67.9/-3.4/136.9" skinid="ht_node" description="" title="IMG_20240915_181121_00_546.insp" url="{node6}"/>
+      <hotspot id="Point02" pan="-315.2" tilt="-3.97" target="54.0/0.0/148.1" skinid="ht_node" description="" title="IMG_20240915_181515_00_551.insp" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomoutpause="1" zoomin="0" softedge="0" zoomfov="40" blendtime="1" delay="none"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" hideabout="0" sensitivity="8" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" rubberband="0" lockedwheel="0" invertwheel="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="1632" leveltilesize="510" height="1632" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" levelingpitch="0" levelbiashidpi="1.000" overlap="1" levelbias="0.400">
+      <level width="1632" predecode="0" preload="0" height="1632"/>
+      <level width="816" predecode="0" preload="0" height="816"/>
+      <level width="408" predecode="1" preload="1" height="408"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max pan="360" scaletofit="1" tilt="90" fov="140" fovstereographic="330" fovfisheye="360"/>
+    </view>
+    <userdata latitude="" longitude="" datetime="15/09/2024 18:11" author="" description="" nodeid="node6" title="IMG_20240915_181121_00_546.insp" customnodeid="" heading="0" source="" tags="MatheusTombini" info="" comment="" copyright=""/>
+    <hotspots width="180" wordwrap="1" smoothmovement="0" height="20">
+      <label backgroundcolor="0xffffff" width="180" textalpha="1" border="1" borderradius="1" enabled="1" height="20" borderalpha="1" textcolor="0x000000" background="1" backgroundalpha="1" wordwrap="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" mode="0" handcursor="1" backgroundalpha="0.25098" bordercolor="0x0000ff"/>
+      <hotspot id="Point01" pan="-297.38" tilt="-1.73" target="34.0/0.0/117.0" skinid="ht_node" description="" title="IMG_20240915_180752_00_536.insp" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" zoomspeed="2" blendcolor="0x000000" zoomafteroutfov="40" enabled="1" zoomafterinfov="140" zoomoutpause="1" zoomin="0" softedge="0" zoomfov="40" blendtime="1" delay="none"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedkeyboardzoom="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" hideabout="0" sensitivity="8" contextvr="1" zoomcentercursor="1" simulatemass="1" lockedkeyboard="0" speedwheel="1" invertcontrol="1" contextfullscreen="1" rubberband="0" lockedwheel="0" invertwheel="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" tags="" description="" title="" comment="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
